@@ -1,8 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Room","order":2,"parentId":0,"scrollX":534,"scrollY":325.5},
+{"id":1,"expanded":true,"name":"Room","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"GameOverSujeira","order":3,"parentId":0,"scrollX":534,"scrollY":298.5},
 {"id":4,"expanded":false,"name":"GameOverTempo","order":4,"parentId":0,"scrollX":534,"scrollY":298.5},
-{"id":5,"expanded":false,"name":"House 1","order":5,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":5,"expanded":true,"name":"House 1","order":5,"parentId":0,"scrollX":534,"scrollY":421.5},
+{"id":6,"expanded":false,"name":"Cutscene_Epilogo","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"Aula de Jogos","order":7,"parentId":0,"scrollX":534,"scrollY":325.5}
 ]
