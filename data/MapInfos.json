@@ -8,5 +8,5 @@ null,
 {"id":6,"expanded":false,"name":"Cutscene_Epilogo","order":7,"parentId":0,"scrollX":819,"scrollY":466},
 {"id":7,"expanded":true,"name":"Aula de Jogos","order":8,"parentId":0,"scrollX":534,"scrollY":325.5},
 {"id":8,"expanded":false,"name":"FIM_JOGO","order":9,"parentId":0,"scrollX":534,"scrollY":325.5},
-{"id":9,"expanded":false,"name":"MAP009","order":3,"parentId":1,"scrollX":832,"scrollY":640}
+{"id":9,"expanded":false,"name":"MAP009","order":3,"parentId":1,"scrollX":534,"scrollY":325.5}
 ]
